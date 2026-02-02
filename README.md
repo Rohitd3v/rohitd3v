@@ -44,11 +44,6 @@ I believe in **building in public**, **learning by breaking things**, and **shar
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitd3v&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=F38BA8&fire=F38BA8&currStreakLabel=F9E2AF" height="170" alt="GitHub Streak"/>
-</p>
 
 
 ---
